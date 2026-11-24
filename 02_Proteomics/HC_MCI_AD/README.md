@@ -44,4 +44,4 @@ Selects the 20 most negative AD vs HC gene ranking scores from the union of lead
 
 ## Reproducibility notes
 
-Scripts retain the original analysis-specific diagnosis and age sources rather than harmonizing them. Confirm that the selected samples and ages agree across scripts using the exported metadata tables. Protein-level BH in script 01 and global GO-level BH in script 02 are distinct procedures. Figures are exported as 600 dpi PNG and PDF. Session information is exported by the main analyses. The public scripts have been organized from the original code but have not been rerun against the source workbooks.
+Scripts retain the original analysis-specific diagnosis and age sources rather than harmonizing them. Confirm that the selected samples and ages agree across scripts using the exported metadata tables. Protein-level BH in script 01 and global GO-level BH in script 02 are distinct procedures. Figures are exported as 600 dpi PNG and PDF. Session information is exported by the main analyses.
