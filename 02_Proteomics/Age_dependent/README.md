@@ -2,7 +2,7 @@
 
 ## Overview
 
-Age-associated protein abundance changes in UDCs and UDC-iNs were assessed using nine paired adult healthy-control donors (18 samples), excluding YoungControl samples.
+Age-associated protein abundance changes in UDCs and UDC-iNs were assessed using nine paired adult healthy-control donors (18 samples).
 
 ## Input files
 
