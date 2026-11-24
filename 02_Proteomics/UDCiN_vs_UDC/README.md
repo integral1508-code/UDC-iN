@@ -1,6 +1,6 @@
 # UDC-iN vs UDC proteomic analyses
 
-This directory contains R scripts for paired proteomic comparisons of urine-derived cells (UDCs) and directly induced neurons derived from UDCs (UDC-iNs).
+This directory contains R scripts for paired proteomic comparisons of UDCs and UDC-iNs.
 
 ## Scripts
 
