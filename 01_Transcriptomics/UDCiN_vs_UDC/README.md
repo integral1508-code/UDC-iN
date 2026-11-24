@@ -1,6 +1,6 @@
 # UDC-iN vs UDC RNA-seq analysis
 
-R scripts for comparing directly induced neurons derived from urine-derived cells (UDC-iNs) with parental urine-derived cells (UDCs). The input dataset comprises 22 samples from 11 paired donors.
+R scripts for comparing UDC-iNs with parental UDCs. The input dataset comprises 22 samples from 11 paired donors.
 
 ## Requirements
 
