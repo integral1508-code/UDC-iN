@@ -1,6 +1,6 @@
 # NPC vs HC transcriptomic analyses
 
-This directory contains R scripts for comparing Niemann–Pick disease type C (NPC) and healthy control (HC) samples in UDC-iNs and iPSC-iNs.
+This directory contains R scripts for comparing Niemann–Pick disease type C (NPC) and healthy control (HC) samples in UDC-iNs and induced pluripotent stem cell-derived induced neurons (iPSC-iNs).
 
 ## Scripts
 
