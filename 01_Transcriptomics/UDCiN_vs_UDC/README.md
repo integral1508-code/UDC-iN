@@ -46,4 +46,4 @@ Positive fold changes indicate higher expression in UDC-iNs. PCA group-label pos
 
 ## Reproducibility notes
 
-The original statistical settings and plotting parameters are retained. Local desktop paths and automatic macOS opening commands were replaced with portable paths and batch-friendly execution. Empty GO results are handled without failing the significance filter. Scripts have not been executed against the original input data in preparing this package.
+The original statistical settings and plotting parameters are retained. Local desktop paths and automatic macOS opening commands were replaced with portable paths and batch-friendly execution. Empty GO results are handled without failing the significance filter.
